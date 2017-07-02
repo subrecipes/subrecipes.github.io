@@ -1,0 +1,3 @@
+### Cocontributors
+
+Users can become major, minor, or patch cocontributors of micropractices by providing insights that respectively lead to major, minor, or patch updates to a micropractice. Users use perspectives and perspective comments to illustrate these insights, and they are added as cocontributors when the micropractice author publishes an update and references a perspective or perspective comment. Multiple users can be added as cocontributors through the same update.

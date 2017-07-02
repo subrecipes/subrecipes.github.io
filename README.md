@@ -1,2 +1,3 @@
 # Introduction
 
+Naetorp is a platform for sharing narrow scoped best practice articles \(Micropractices\). These micropractices have a 5000 character limit to dissuade users from writing beyond a single idea, and they include first class support for updates with required versioning. Naetorp also supports a perspective system - analogous to the issues section of many online git repository platforms - which allows users to expand on the initial ideas of the micropractice. Finally, underpinning the entire Naetorp platform is a points and rank system designed to encourage original contributions and collaboration.

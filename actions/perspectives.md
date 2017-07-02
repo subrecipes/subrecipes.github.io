@@ -1,0 +1,3 @@
+### Perspectives
+
+Perhaps a euphamism for the common _issues_ section featured in many online version control platforms, perspectives are a way of informing the author and future readers about missing, inaccurate, or debatable information. Perspectives provide an opportunity to expand on either the support or the caveats of a micropractice, or to point out relevant changes to the content. Just like issues, perspectives are opened and closed based on when their contents are deemed irrelevant. For example, if a reader opens a perspective on a micropractice that is missing a specific limitation, if the original micropractice author agrees, they can add a new caveat to cover that scenario. Once the caveat is added, the perspective is longer necessary, and can be closed. 

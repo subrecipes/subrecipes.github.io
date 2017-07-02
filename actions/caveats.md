@@ -1,0 +1,3 @@
+### Caveats
+
+Caveats are used to point out limitations of a micropractice. Although it might seem intuitive to keep caveats in the content of a micropractice, separating them into their own entity ensures that the character micropractice character limit is used exclusively for explaining how the micropractice works. Caveats are written and added to a micropractice page by the original micropractice author, and updates to caveats are treated as updates to the micropractice. They can be patch, major, or minor, depending on the significance of the change. It is conceivable that a major caveat could warrant a major version update.
