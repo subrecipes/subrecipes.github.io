@@ -1,0 +1,3 @@
+### Who is Naetorp for?
+
+Neatorp serves two different interest groups, although they are by no means exclusive. The first group are the people looking for new ideas on how to use a certain technology. This includes both tyros just starting out, and virtuosos working to solidify their proficiency. The second group are the experts in new technologies who know best practices, but don't have the time or content for a full book, and who feel that a blog post is an insufficient return on information shared. Naetorp is easy to contribute to as every article is limited in length, and with versioning articles are made to last the tests of time, so their significance stretches beyond immediate consumption.

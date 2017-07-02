@@ -1,0 +1,3 @@
+### Stars
+
+Like most other content sharing platforms, stars are used to signify important micropractices. Starred micropractices are store in a user's My Starred section so that they're easy to access for reference. Currently only lifetime stars per micropractice are supported, but in the future, stars will also be shown as either a weekly or monthly total to showcase the timeliness of the micropractice \(Just because a micropractice has a lot of stars does not mean it's current\).

@@ -1,6 +1,20 @@
 # Summary
 
 * [Introduction](README.md)
-* [Actions](actions.md)
-* [Points](points.md)
-
+  * [Getting Started](introduction/getting_started.md)
+  * [Why Does Naetorp Exist?](introduction/why.md)
+  * [Who is Naetorp For?](introduction/who.md)
+* Actions
+  * [Micropractices](actions/micropractices.md)
+  * [Stars](actions/stars.md)
+  * [Caveats](actions/caveats.md)
+  * [Perspectives](actions/perspectives.md)
+  * [Tags](actions/tags.md)
+  * [Cocontributors](actions/cocontributors.md)
+* [Points](points/introduction.md)
+  * [How It Works](points/how.md)
+  * [Points and Tags](points/points_tags.md)
+  * [Ranks](points/ranks.md)
+  * [Scoring](points/scoring.md)
+* [Feedback](feedback.md)
+* [Contact](contact.md)
