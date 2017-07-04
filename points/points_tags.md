@@ -1,3 +1,0 @@
-### Points and Tags
-
-Points and tags are highly coupled in the Naetorp scoring system. All points are created in reference to the tags of the parent microscope. For example, if a micropractice had two tags on it, Javascript and Test Driven Development, then all points created from that micropractice would reference Javascript and Test Driven Development. Total points for any action are always divided by the number of tags, so if an action is normally worth 1 point, but there are two tags associated with the parent microscope, then the points receiver get 0.5 points referencing the first tag, and 0.5 points referencing the second tag.

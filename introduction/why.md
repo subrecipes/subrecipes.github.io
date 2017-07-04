@@ -1,7 +1,0 @@
-### Why does Naetorp exist?
-
-There are so many amazing resources in the programming community for learning and mastering various languages, libraries, and technologies. From Stack Overflow's simple question and answer format, to Eggheads' video tutorials, and Jsfiddles' demoing capabilities, each tool provides a unique solution to a specific area in the programming ecosystem. Best practices are one such area that is still served entirely through books, blogs, and anecdotal conversations, and while these resources are effective, there are serious limitations.
-
-The most glaring issue is the one that surrounds new technologies. Blogs and books are excellent resources for stable technologies, but problematic for dynamic technologies where best practices change every few weeks or months. Blogs can be updated, but the majority are more ephemeral in nature, like a snapshot of a best practice at a specific time, and made for immediate consumption. Books go through longer publication cycles, and newer technologies don't necessarily attract the best writers right away.
-
-There's also no central location for best practices. You might find a best practice on a personal blog, a medium article, or in the recipes section of a library's documentation, which means finding a best practice is harder than it needs to be.

@@ -1,5 +1,0 @@
-### Micropractices
-
-Micropractices are narrow scoped best practices that have a 5000 character limit. They consist of a title,  pitch, tags, and the best practice content written in markdown. The title, which is search indexable, is a creative name for the micropractice. For example, the practice of wrapping dumb ReactJS components in smart higher order components could have the title 'Containerization'. The pitch, which is also search indexable, is a one sentence generalization of the problems a micropractice solves, and the mechanism for how those problems are solved.
-
-Micropractices also come with first class support for updates through a standard versioning system. All updates fall under either a patch, minor, or major update, and these version changes have different affects across the application. For example, patch update alongside a reference to a perspective would create a patch cocontributor.

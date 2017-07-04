@@ -1,2 +1,0 @@
-# Points
-Naetorp employs a points and rank system to differentiate individual users based on their expertise in a specific subject matter. It's also an attempt to gamify both the transfer of micropractices, and the collaboration that comes with improving an existing micropractice. 
